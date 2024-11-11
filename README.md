@@ -13,7 +13,7 @@ I am a versatile full-stack developer who thrives in dynamic environments. I can
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/6a59946a-3725-4a5d-a5a4-e39e7317a8c3" width="360px"/>
 
 
-- 🔭 &nbsp; I’m currently working on a **lofi webapp and a gateway API for WP Plugins**
+- 🔭 &nbsp; I’m currently working on a **WP plugin for glasses prescriptions and a gateway API for WP Plugins**
 - 🌱 &nbsp; I’m currently learning GraphQL; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/arukaraz?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, I am happy to help;
