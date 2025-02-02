@@ -25,7 +25,7 @@ I am a versatile full-stack developer who thrives in dynamic environments. I can
 **🐱 My GitHub Data** 
 > 📜 3 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 
 <br>
